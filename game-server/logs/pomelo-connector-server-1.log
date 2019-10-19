@@ -1,0 +1,4 @@
+[2019-10-19 11:43:38.451] [INFO] pomelo - [32m[C:\kw-pomelo\node_modules\pomelo\lib\application.js] [39mapplication inited: "connector-server-1"
+[2019-10-19 11:43:39.247] [INFO] pomelo - [32m[C:\kw-pomelo\node_modules\pomelo\lib\application.js] [39m"connector-server-1" enter after start...
+[2019-10-19 11:43:39.252] [INFO] pomelo - [32m[C:\kw-pomelo\node_modules\pomelo\lib\application.js] [39m"connector-server-1" finish start
+[2019-10-19 11:43:39.252] [INFO] pomelo - [32m[C:\kw-pomelo\node_modules\pomelo\lib\application.js] [39m"connector-server-1" startup in 725 ms
