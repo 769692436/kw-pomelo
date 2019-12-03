@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/769692436/kw-pomelo#readme",
   "dependencies": {
-    "pomelo": "2.2.6"
+    "pomelo": "2.2.7"
   },
   "devDependencies": {
     "@types/node": "^12.11.1",
